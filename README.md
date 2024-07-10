@@ -1,6 +1,6 @@
 # Hi, my name is Jack Wilson,
   I am a full stack developer striving to create apps that people want to use. </br>
-  You can find some of my work here:
+  You can find some of my work in the pinned projects on my github.
 
 ## Solo Project: Todo-Fullstack
   (React | CSS | Express.js | SQLite3 | Restful API's | Node.js | Dokku)
@@ -19,3 +19,9 @@
 
   Deployed app: https://neighbour-goods.vercel.app/ </br>
   Project Presentation: https://youtu.be/3G8NMRlVaWU
+
+## Solo Project: Dreamfest
+  (React | SQLite3 | Vitest | Accessability)
+
+  Dreamfest is a project where I had the opportunity to learn about accessability in web applications as well as test driven development.
+  
