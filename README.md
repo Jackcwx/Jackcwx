@@ -17,5 +17,5 @@
   My group and I took this project as an opportunity to test our ability to learn fast by learning a new tech stack that wasn't
   taught to us in class in the week we had to build the app. 
 
-  Deployed app: https://neighbour-goods.vercel.app/
+  Deployed app: https://neighbour-goods.vercel.app/ </br>
   Project Presentation: https://youtu.be/3G8NMRlVaWU
