@@ -30,5 +30,15 @@
 ## Solo Project: Dreamfest
   (React | SQLite3 | Vitest | Accessability)
 
-  Dreamfest is a project where I had the opportunity to learn about accessability in web applications as well as test driven development.
+  Dreamfest is a music festival scheduling project where I had the opportunity to learn about accessability in web applications as well as test driven development.
   
+Repository: https://github.com/Jackcwx/Dreamfest
+
+## Group Project: Bad Characters Good Vibes
+  (Auth0 | React | Express.js | SQLite3 | superagent)
+
+  Bad Characters Good Vibes is a tinder style game where users can upload characters for a community to vote on how good or evil they are.
+  The project was teacher lead and our group members picked up tickets for features they wanted to work on. 
+  I got to work with Authorizing, creating and managing user data. This project was another good opportunity for me to work in a full-stack application on both the frontend and the backend. 
+
+  Repository: https://github.com/Jackcwx/bad-characters-good-vibes/blob/dev/client/apis/managers.ts
