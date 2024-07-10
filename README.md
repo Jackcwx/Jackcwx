@@ -2,7 +2,7 @@
   I am a full stack developer striving to create apps that people want to use. </br>
   You can find some of my work here:
 
-## Todo-Fullstack
+## Solo Project: Todo-Fullstack
   (React | CSS | Express.js | SQLite3 | Restful API's | Node.js | Dokku)
   
   One of my first experiences building a full-stack application. </br>
@@ -10,7 +10,7 @@
 
   Repository: https://github.com/Jackcwx/todoFullStack </br>
 
-## NeighbourGoods
+## Group Project: NeighbourGoods
   (PostgreSQL | Next.js | Prisma | React | TailwindCSS | Auth0 | Vercel)
 
   Final Project from my full-stack bootcamp, in which I primarily worked in the backend and wrote API client hooks. </br>
