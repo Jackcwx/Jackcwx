@@ -20,6 +20,13 @@
   Deployed app: https://neighbour-goods.vercel.app/ </br>
   Project Presentation: https://youtu.be/3G8NMRlVaWU
 
+## Solo Project: TDD-Bowling
+  (Vitest | Javascript)
+
+  A simple calculator to score a game of bowling, the process of writing the app was through test driven development in which I had to opportunity to learn about unit testing with Vitest.
+
+  Repository: https://github.com/Jackcwx/TDD-Bowling
+
 ## Solo Project: Dreamfest
   (React | SQLite3 | Vitest | Accessability)
 
